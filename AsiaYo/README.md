@@ -1,1 +1,1 @@
-### result : rejected 😥
+### Result : Rejected 😥
