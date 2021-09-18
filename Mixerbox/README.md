@@ -1,1 +1,5 @@
-### Build a [Microsoft Bing news](https://www.bing.com/news?setmkt=zh-tw&setlang=zh-tw&sid=0878E2048C2A6E0C3EB5F2988D316F6E) mock website with React.
+- 2021/08/19 HR 說明
+- 2021/08/25 一面
+- 2021/09/01 二面
+  - Build a [Microsoft Bing news](https://www.bing.com/news?setmkt=zh-tw&setlang=zh-tw&sid=0878E2048C2A6E0C3EB5F2988D316F6E) mock website with React.
+- 2021/09/06 感謝函 😥
